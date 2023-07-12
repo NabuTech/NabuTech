@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...<br>
                                   -Turning my Level 6 Diploma of Software Development into a Bachelors of IT<br>
                                   -Increasing my experience in IT<br>
                                   -Building my personal brand<br>
@@ -9,7 +9,7 @@
                                   -Creating Software for you .......<br>
                                   -Creating Software for ......... everyone.<br>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...<br>
                                   -Everything... Ooh shiny new thing.
 
 # Catch me on:
