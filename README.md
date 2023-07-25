@@ -14,8 +14,8 @@
 
 # Catch me on:
 
-  [![Twitter](icons/twitter.png)](https://twitter.com/nabu_tech/)
-  [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/sammyjohnrawlinson/)
+  [![Twitter](icons/Twitter.png)](https://twitter.com/nabu_tech/)
+  [![LinkedIn](icons/linkedIN.png)](https://www.linkedin.com/in/sammyjohnrawlinson/)
 
 
 <h3 align="left">Languages and Tools:</h3>
